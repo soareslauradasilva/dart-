@@ -1,0 +1,21 @@
+void main () {
+  
+  String variaveldetexto = 'olá meu nome é laura';
+  
+ print('$variaveldetexto');
+  
+  //variavel do tipo inteiro
+  
+ int variaveldotipointeiro = 14 ; 
+  
+ print('$variaveldotipointeiro');
+
+  //boleano
+  bool variaveltrue = true;
+  print(variaveltrue);
+ 
+    
+ //double
+ double variaveldenumerodecimal = 3.5; 
+print(variaveldenumerodecimal);  
+}
