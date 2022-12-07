@@ -1,0 +1,28 @@
+void main() {
+  
+ somar(2,5);
+ somar (7,10); 
+ somar(2000,4888);  
+ somar(1928901,910);
+}
+  
+   void somar(int x , int y)
+   {
+   int resultado = x  + y;
+     
+     print(resultado);   
+   }
+
+// fução subtrair 
+double()
+{
+subtrair(1333,67);
+subtrair(78,45);
+subtrair(12,7);
+subtrair(34,4);
+}  
+  void subtrair ( int x , int y)
+  {
+ int resultado = x - y;   
+   print(resultado);
+  }
